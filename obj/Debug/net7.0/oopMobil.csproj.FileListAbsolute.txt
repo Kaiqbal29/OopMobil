@@ -1,0 +1,15 @@
+E:\Pemograman\oopMobil\obj\Debug\net7.0\oopMobil.csproj.AssemblyReference.cache
+E:\Pemograman\oopMobil\obj\Debug\net7.0\oopMobil.GeneratedMSBuildEditorConfig.editorconfig
+E:\Pemograman\oopMobil\obj\Debug\net7.0\oopMobil.AssemblyInfoInputs.cache
+E:\Pemograman\oopMobil\obj\Debug\net7.0\oopMobil.AssemblyInfo.cs
+E:\Pemograman\oopMobil\obj\Debug\net7.0\oopMobil.csproj.CoreCompileInputs.cache
+E:\Pemograman\oopMobil\bin\Debug\net7.0\oopMobil.exe
+E:\Pemograman\oopMobil\bin\Debug\net7.0\oopMobil.deps.json
+E:\Pemograman\oopMobil\bin\Debug\net7.0\oopMobil.runtimeconfig.json
+E:\Pemograman\oopMobil\bin\Debug\net7.0\oopMobil.dll
+E:\Pemograman\oopMobil\bin\Debug\net7.0\oopMobil.pdb
+E:\Pemograman\oopMobil\obj\Debug\net7.0\oopMobil.dll
+E:\Pemograman\oopMobil\obj\Debug\net7.0\refint\oopMobil.dll
+E:\Pemograman\oopMobil\obj\Debug\net7.0\oopMobil.pdb
+E:\Pemograman\oopMobil\obj\Debug\net7.0\oopMobil.genruntimeconfig.cache
+E:\Pemograman\oopMobil\obj\Debug\net7.0\ref\oopMobil.dll
