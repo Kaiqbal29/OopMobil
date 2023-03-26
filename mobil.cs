@@ -17,7 +17,7 @@ namespace oopMobil
         public int speed { get; set; }
 
         
-        public void Gas(int sound)
+        public void Gas(int speed)
         {
             Console.WriteLine("Speed");
             Console.WriteLine("Mobil {0} berjalan dengan kecepatan {1} Km/h.\n", type, speed);
