@@ -1,6 +1,7 @@
 ﻿using oopMobil;
 using System;
 using System.Collections.Generic;
+using System.Drawing;
 using System.Formats.Asn1;
 using System.Linq;
 using System.Text;
@@ -14,16 +15,17 @@ internal class Program
     {
         
         mobil mobil1 = new mobil();
-        mobil1.color = "MetaBlack";
-        mobil1.brand = "Nissan GT-R";
-        mobil1.type = "R-36";
-        mobil1.horn = "Ratatata!!";
-        mobil1.doors = 2;
-        mobil1.since = 2027;
-        mobil1.speed = 320;
 
-        mobil1.Gas(mobil1.speed);
-        mobil1.Klakson(mobil1.horn);
+        mobil1.Color = "Meta Black";
+        mobil1.Brand = "Nissan GT-R";
+        mobil1.Type = "R-36";
+        mobil1.Horn = "Ratatata!!";
+        mobil1.Doors = 2;
+        mobil1.Since = 2027;
+        mobil1.Speed = 320;
+
+        mobil1.Gas(mobil1.Speed);
+        mobil1.Klakson(mobil1.Horn);
         mobil1.TampilkanInfo();
 
         Console.ReadKey();
